@@ -1,2 +1,2 @@
-# Gu-a-Metodol-gica-Completa-De-Idea-a-MVP-con-NotebookLM-y-Desarrollo-Asistido-por-IA
+# Guía Metodológica Completa: De Idea a MVP con NotebookLM y Desarrollo Asistido por IA
 Introducción y Visión General del Flujo Esta metodología transforma el proceso tradicional de desarrollo de producto en un flujo sistemático que aprovecha la inteligencia artificial en cada etapa. El enfoque central utiliza NotebookLM como "cerebro de investigación" que alimenta posteriormente las herramientas de desarrollo con IA.
